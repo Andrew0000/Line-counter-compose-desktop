@@ -2,4 +2,5 @@
 /android/build
 /common/build
 /desktop/build
+/build
 /.gradle
